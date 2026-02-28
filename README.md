@@ -1,5 +1,6 @@
 # Trader-Sentiment-Analytics
-
+                                              check-out for greater visuals
+                                              Streamlit app link : https://trader-sentiment-analytics-5cfukainerfqgkebvi4czv.streamlit.app/
 Insight :
   1 : Traders usually perfrom better during greed periods than in fear periods, this shows that postive market sentiment helps increase profit.
   2 : During fear periods , traders are more careful, less trading frequency , less position sizes . while during greed periods , traders are more risky and more active.
